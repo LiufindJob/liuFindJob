@@ -5,7 +5,7 @@
 | 广联达 | 测试开发                                                     | 🆗    |      |      |      |      | 不影响秋招 |
 | 好未来 | 测试开发                                                     | 🆗    |      |      |      |      |            |
 | 快手   | 测试开发                                                     | 🆗    |      |      |      |      |            |
-| 搜狐   | [测试开发][https://app.mokahr.com/recommendation-apply/sohu/5683?recommenderId=350579#/job/7537b3b4-f435-4fe6-a852-e83f377724b8?_k=hh7fjx] |      |      |      |      |      |            |
+| 搜狐   | [测试开发](https://app.mokahr.com/recommendation-apply/sohu/5683?recommenderId=350579#/job/7537b3b4-f435-4fe6-a852-e83f377724b8?_k=hh7fjx) |      |      |      |      |      |            |
 
 # 备注
 
