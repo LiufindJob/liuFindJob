@@ -9,6 +9,9 @@
 | 拼多多   | [所有岗位](https://careers.pinduoduo.com/campus/grad?t=sEdJcOpPhg) |      |      |      |      |      | 没有测试开发         |
 | 字节跳动 | [测试开发](https://www.nowcoder.com/discuss/459936?type=post&order=create&pos=&page=1&channel=2001&source_id=search_post) |      |      |      |      |      | 希望准备好，尽快投递 |
 | 阿里巴巴 |                                                              |      |      |      |      |      | 希望准备好，尽快投递 |
+| scopee   | [测试开发](https://www.nowcoder.com/discuss/454490?type=all&order=recall&pos=&page=1&channel=2001&source_id=search_all) | 🆗    |      |      |      |      |                      |
+
+
 
 # 备注
 
