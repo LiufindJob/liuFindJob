@@ -12,6 +12,7 @@
 | scopee         | [测试开发](https://www.nowcoder.com/discuss/454490?type=all&order=recall&pos=&page=1&channel=2001&source_id=search_all) | 🆗    |      |      |      |      | 投错了（没有测试开发） |
 | 公安第三研究所 | [职位链接](https://campus.liepin.com/xycompany/174669/#jobtitle=N000140&) |      |      |      |      |      |                        |
 | 京东           | [测试开发][https://www.nowcoder.com/discuss/464829?type=post&order=create&pos=&page=1&channel=1013&source_id=search_post] | 🆗    |      |      |      |      |                        |
+| 奇安信         | [测试][https://www.nowcoder.com/discuss/464920?type=post&order=time&pos=&page=0&channel=666&source_id=search_post] |      |      |      |      |      |                        |
 
 
 
